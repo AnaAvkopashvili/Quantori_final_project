@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/build_module/chembl_data_processing/services/db_handler.py" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/build_module/ddl_script/views.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/build_module/fingerprint_computation/fingerprint_processor.py" dialect="PostgreSQL" />
+  </component>
+</project>
