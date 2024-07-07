@@ -1,7 +1,7 @@
 from multiprocessing import cpu_count
 
 # etl.py constants
-DATABASE_URL = 'postgresql://naneli:0e247156@de-database.ccpquxzb7z8t.us-east-2.rds.amazonaws.com/postgres'
+DATABASE_URL = 'URL'
 CHEMBL_ID_LOOKUP_URL = 'https://www.ebi.ac.uk/chembl/api/data/chembl_id_lookup.json'
 MOLECULE_URL = 'https://www.ebi.ac.uk/chembl/api/data/molecule.json'
 
